@@ -13,6 +13,8 @@
     /* background-size: cover; */
 }
 
+/* Header Nav Section Styles */
+
 nav {
     display: flex;
     justify-content: space-between;
@@ -37,6 +39,8 @@ nav li {
     color: black;
     font-family:Verdana;
 }
+
+/* Header Banner Section styles */
 
 
 .banner {
