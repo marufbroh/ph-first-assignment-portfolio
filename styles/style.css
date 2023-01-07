@@ -13,6 +13,32 @@
     /* background-size: cover; */
 }
 
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-left: 25px;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+}
+
+nav li {
+    list-style: none;
+    margin-left: 25px;
+
+}
+
+.nav-title {
+    font-weight: 700;
+    font-size: 65px;
+    color: black;
+    font-family:Verdana;
+}
+
+
 .banner {
     width: 1600px;
     height: 808px;
@@ -32,7 +58,7 @@
 
 .banner-contant {
     text-align: right;
-    padding-top: 216px;
+    padding-top: 116px;
     padding-right: 230px;
 }
 
